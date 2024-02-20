@@ -24,6 +24,25 @@ Los mismos pertenecen a la primera parte del programa ONE.
 
 Nota: el sitio no posee funcionalidad dado que los cursos se centran en el aprendizaje de HTML5 y CSS3.
 
+<br />
+
+## 🛠️ Herramientas implementadas 
+  - CSS
+  - HTML
+  - JavaScript
+  - Git || GitHub || GitHub Pages
+
+<div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css,html,js,git,github" />
+    </a>
+</div>
+<br />
+
+<br />
+
+
+
 # 📚 SINTESIS PROGRAMA ONE
 El programa ONE (OracleNextEducation) es una iniciativa de Oracle y Alura Latam para capacitar y conectar a los nuevos talentos de latinoamerica.
 
@@ -33,3 +52,7 @@ El programa consta de 2 partes:
 2. Especializacion en Back-End (Java-Spring) o en Front-End (React) + 3 challenges en equipo
 
 Luego del pilar educativo, el pilar de empleabilidad: el egresado tiene acceso a EmpleaONE, donde puede conectarse con empresas afines a Oracle y Alura Latam.
+
+## 📧 Contacto
+¿Tienes un proyecto en mente? Conectémonos y hagamos que las cosas sucedan! Puedes escribirme a carolinalopezdatascientist@gmail.com o seguirme en [LinkedIn](https://www.linkedin.com/in/carolina-lopez-430208106/).
+<br /><br />
