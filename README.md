@@ -26,8 +26,8 @@ Nota: el sitio no posee funcionalidad dado que los cursos se centran en el apren
 
 <div align="center">
   <h3>
-    <a href="https://bety2022.github.io/Juego-Secreto/" >
-      🔗 Visitar Juego del número secreto
+    <a href="https://bety2022.github.io/Barber-a-Alura/index.html" >
+      🔗 Visitar Barberìa Alura
     </a>
     
 </div>
