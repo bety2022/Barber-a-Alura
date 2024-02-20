@@ -24,6 +24,14 @@ Los mismos pertenecen a la primera parte del programa ONE.
 
 Nota: el sitio no posee funcionalidad dado que los cursos se centran en el aprendizaje de HTML5 y CSS3.
 
+<div align="center">
+  <h3>
+    <a href="https://bety2022.github.io/Juego-Secreto/" >
+      🔗 Visitar Juego del número secreto
+    </a>
+    
+</div>
+
 <br />
 
 ## 🛠️ Herramientas implementadas 
