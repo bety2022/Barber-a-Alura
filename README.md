@@ -1,3 +1,4 @@
+<h1 align="center"> BARBERIA ALURA </h1>
 # 🧔 BARBERIA ALURA
 
 El sitio de la Barbería Alura es el resultado final de 4 cursos de HTML5 y CSS3:
